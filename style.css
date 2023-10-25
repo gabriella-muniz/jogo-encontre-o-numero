@@ -5,18 +5,18 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #3a86ff;
+    background-color:#CCD6F5;
 }
 
 .content{
 display: flex;
 flex-direction: column;
-background-color: #8338ec;
+background-color:#0A192F;
 padding: 30px;
 align-items: center;
 gap: 15px;
 border-radius: 5px;
-color:white ;
+color:#CCD6F5 ;
 font-size: 14px;
 }
 
@@ -32,7 +32,7 @@ font-size: 14px;
 }
 
 .content input::placeholder{
-    color:rgb(240, 175, 203) ; 
+    color:#CCD6F5 ; 
     text-align: center;
 }
 
@@ -42,8 +42,8 @@ font-size: 14px;
     width: 50%;
     border-radius: 5px;
     border: none;
-    background-color: #ffbe0b;
-    color:rgb(131, 8, 61) ;
+    background-color: #9D02D9;
+    color:black ;
     cursor: pointer;
 }
 input::-webkit-outer-spin-button,
@@ -55,7 +55,7 @@ input::-webkit-outer-spin-button,
 @media only screen and (max-width: 768px) {
    .content{
     padding: 50px 30px 50px 30px ;
-    font-size: 10px;
+    font-size: px;
        }
    }
    
