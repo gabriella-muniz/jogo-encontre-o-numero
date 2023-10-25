@@ -54,8 +54,8 @@ input::-webkit-outer-spin-button,
 
 @media only screen and (max-width: 768px) {
    .content{
-    padding: 15px;
-   font-size: 12px;
+    padding: 10px;
+    font-size: 8px;
        }
    }
    
